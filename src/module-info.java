@@ -6,4 +6,5 @@
  *
  */
 module Desmos {
+	requires java.desktop;
 }
